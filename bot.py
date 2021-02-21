@@ -2,7 +2,7 @@ import telebot
 from telegram_bot_pagination import InlineKeyboardPaginator
 import pandas as pd
 import csv
-bot = telebot.TeleBot("1446894399:AAGWnlvQyQQvHMeioKMLvPtvFdr01zpKmss")
+bot = telebot.TeleBot("***")
 
 
 def statistics(user_id):
